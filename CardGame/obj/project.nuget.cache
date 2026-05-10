@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J66NEkfsu6U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alanw\\RiderProjects\\CardGame\\CardGame\\CardGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alanw\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
